@@ -4,3 +4,4 @@
 - **Unbreakable 2022 Teams(0x19fec7ed)**- 1st place as highschoolers, 4th place in total
 - **BCACTF 2022(Brav0Team)**- 25th place
 - **TenableCTF 2022(Smek)**- 15th place
+- **ROCSC 2022 Quals** - 4th place as junior, 12th place in total
